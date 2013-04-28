@@ -1,7 +1,6 @@
 # Compass configuration file.
 
-# Please read the docs http://docs.mixture.io/preprocessors#compass, we will soon support
-# the ability to easily require plugins.
+# We also support plugins and frameworks, please read the docs http://docs.mixture.io/preprocessors#compass
 
 project_path = "/path/"
 
