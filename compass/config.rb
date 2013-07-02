@@ -2,8 +2,6 @@
 
 # We also support plugins and frameworks, please read the docs http://docs.mixture.io/preprocessors#compass
 
-project_path = "/path/"
-
 # Important! change the paths below to match your project setup
 css_dir = "public/styles" # update to the path of your css files.
 sass_dir = "public/styles/sass" # update to the path of your sass files.
